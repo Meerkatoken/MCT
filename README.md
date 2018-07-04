@@ -16,7 +16,7 @@ Crowdsale period: 2018.07.23 – 2018.09.10
 Crowdsale information can be found at the official ICO website:
 
 The Crowdsale supply of 7.000.000.000 MCT Tokens were transferred to the Meerkat Distribution Address, running this contract:
-https://github.com/Meerkatoken/MCT/blob/master/CrowdSale.sol
+https://github.com/Meerkatoken/MCT/blob/master/MeerkatDistribution.sol
 
 Contact us by joining our social networks:
 
