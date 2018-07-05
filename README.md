@@ -1,8 +1,11 @@
 # Meerkat Distribution Contract & Token 
 
 ERC20 ICO 
+
 Issuer: Have Fun Corporation
+
 Issuer website: http://havefuncorporation.com/
+
 ICO website: http://meerkattoken.com/
 
 # Token Abbreviation: MCT
