@@ -7,13 +7,12 @@ ICO website: http://meerkattoken.com/
 
 # Token Abbreviation: MCT
 
-# Total Supply: 10.000.000.000 MCT
-# Crowdsale Supply: 7.000.000.000 MCT
-# Full Token Price: 1 ETH = 7200 MCT
+Total Supply: 10.000.000.000 MCT
+Crowdsale Supply: 7.000.000.000 MCT
+Full Token Price: 1 ETH = 7200 MCT
 
 Minimum ICO participation amount: 0.1 ETH
-
-# Crowdsale period: 2018.07.23 – 2018.09.10 
+Crowdsale period: 2018.07.23 – 2018.09.10 
 
 # For more information please visit the official ICO website!
 
@@ -32,18 +31,18 @@ ________________________________________________________________________________
 
 # Contact us by joining our social networks:
 
-# Chat with us live on Telegram
+Chat with us live on Telegram!
 https://t.me/meerkatoken
 https://t.me/MeerkatChat
 
-# Facebook 
+Facebook 
 https://www.facebook.com/havefunbudapest/
 
-# Twitter
+Twitter
 
-# BitcoinTalk
+BitcoinTalk
 
-# Reddit
+Reddit
 
 
 
