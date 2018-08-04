@@ -20,7 +20,7 @@ Full Token Price: 1 ETH = 7200 MCT
 
 Minimum ICO participation amount: 0.1 ETH
 
-Crowdsale period: 2018.07.23 – 2018.09.10 
+Crowdsale period: 2018.08.20 – 2018.10.07 
 
 # For more information please visit the official ICO website!
 
@@ -34,6 +34,9 @@ https://etherscan.io/address/0x315bc1843b327d9b60381677b51c0092d9ceb8d8#tokentxn
 
 Token Contract Etherscan:
 https://etherscan.io/token/0x4590877022b2ff1f19953710d8a1e387e5da6315?a=0x919f7b35976397e112234fbceb2b44126982a1d8
+
+Merchant Exchange Address:
+https://etherscan.io/address/0x3e3dfeE42Cee26009BD4A39841C7C3163fae26AB
 
 ______________________________________________________________________________________________________________________________
 
