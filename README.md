@@ -18,6 +18,8 @@ Crowdsale Supply: 7.000.000.000 MCT
 
 Full Token Price: 1 ETH = 7200 MCT
 
+Decimals: 18
+
 Minimum ICO participation amount: 0.1 ETH
 
 Crowdsale period: 2018.08.20 – 2018.10.07 
