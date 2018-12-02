@@ -2,29 +2,37 @@ ________________________________________________________________________________
 # Meerkat Distribution Contract & Token 
 ______________________________________________________________________________________________________________________________
 
-ERC20 ICO 
+Private Sale Rd.1 - FINISHED
 
-Issuer: Have Fun Corporation
+Private Sale Rd.2 - 2019 Jan-Feb.
 
-Issuer website: http://havefuncorporation.com/
+Crowd Sale - 2019 Apr-Jul.
 
-ICO website: http://meerkattoken.com/
+
+______________________________________________________________________________________________________________________________
+# UPDATE 2018 Sept.
+
+The Meerkat Distribution Address is no longer accepting ETH payments. 
+Any payment will be automatically transferred back to the sender address until the start of Private Sale Rd.2.
+
+We started the preparation of the MCT v2 which will include more flexible credit card payment options and easier merchant access. 
+Also a brand new incentive and referral system will be applied, rewarding Meerpackr users with MCT Airdrops, for certain in-app activities. 
+
+Due to extremely high risk nature of the current market conditions, we postpone any further Token Generation Events until 2019 Q2. Right now we are focusing on implementing the tech update, for credit card enabled physical payments. The next round of the Private Sale, will be scheduled after the announcement of a credit card enabled MCT.
+
+Follow our social networks for the latest developments.
+
+______________________________________________________________________________________________________________________________
+
+Token Issuer: Have Fun Corporation
+
+Issuer website: http://havefuncorporation.com/ - UNDER DEVELOPMENT
+
+Crowdsale website: http://meerkattoken.com/ - UNDER DEVELOPMENT
 
 # Token Abbreviation: MCT
 
-Total Supply: 10.000.000.000 MCT
-
-Crowdsale Supply: 7.000.000.000 MCT
-
-Full Token Price: 1 ETH = 7200 MCT
-
-Decimals: 18
-
-Minimum ICO participation amount: 0.1 ETH
-
-Crowdsale period: 2018.08.20 – 2018.10.07 
-
-# For more information please visit the official ICO website!
+# For more information please visit the official Crowdsale website!
 
 ______________________________________________________________________________________________________________________________
 
